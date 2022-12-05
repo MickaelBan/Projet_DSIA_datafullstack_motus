@@ -25,7 +25,7 @@ Nous allons configurer pour chaque joueur:
 
 - Un mot de passe (haché) qui lui permettra d'accéder à son compte avec son nom d'utilisateur
 
-- Un meilleur score actualisé à chaque partie
+Pour lancer l'application il suffit de rentrer la commande "docker-compose up" dans le terminal à partir du répertoire courant sous Windows
 
 
 
